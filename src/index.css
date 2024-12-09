@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    font-weight: 900;
+    padding: 5px;
+    border-bottom:solid 2px #333;
+    background-color: #DF013A;
+    border-radius: 10px;
+}
